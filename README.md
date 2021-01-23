@@ -4,7 +4,7 @@ Weekly discussion on some software engineering topics. Anyone who can understand
 ### Week 1:
 We start with functional stuff and discuss the importance of free functions, How we can use them to compose powerful and beautiful stuff. It was completely from [point free's](https://www.pointfree.co/episodes/ep1-functions) First episode about functions.
 
-### Week 2 ( Part 1 ):
+### [Week 2 ( Part 1 )](https://github.com/osama10/Weekly-Software-Engineers-Meetup/blob/main/WeeklyPractise.playground/Pages/SideEffects.xcplaygroundpage/Contents.swift):
 We continue where we left last time and discuss second important things in Functional world. i.e **Side Effect**We. We discuss what is side effect, it's type and how to avoid them and still ensure the composition. We also create a new composition that strictly deals with function with side effects. 
 We discuss two type of side effect. 
 - Hidden outputs
